@@ -10,19 +10,12 @@ This repository contains a collection of ZSH scripts and configurations.
     git clone https://github.com/espocia/zsh-config.git ~/.config/zsh
     ```
 
-2.  **Source the configuration files:**
-
-    Add the following lines to your `~/.zshrc` file:
+2.  **Run the setup script:**
 
     ```bash
-    source ~/.config/zsh/aliases.zsh
-    source ~/.config/zsh/env.zsh
-    ```
-
-3.  **Restart your shell or source your `~/.zshrc`:**
-
-    ```bash
-    source ~/.zshrc
+    cd ~/.config/zsh
+    chmod +x setup.sh
+    ./setup.sh
     ```
 
 ## Usage
