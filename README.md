@@ -7,7 +7,7 @@ This repository contains a collection of ZSH scripts and configurations.
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url> ~/.config/zsh
+    git clone https://github.com/espocia/zsh-config.git ~/.config/zsh
     ```
 
 2.  **Source the configuration files:**
